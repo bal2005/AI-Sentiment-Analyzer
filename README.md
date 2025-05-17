@@ -11,6 +11,10 @@ An intelligent mini-project that analyzes customer reviews to extract useful ins
 - 📦 **Item Recognition** – Identifies the product being reviewed
 - 🏷️ **Brand Extraction** – Identifies the company or brand associated with the product
 
+## 🎥 Demo
+
+[[(https://youtu.be/oWeb699VD64)]]
+
 ## 🛠️ Tech Stack
 
 - **Gemini API** – For prompt-based review analysis

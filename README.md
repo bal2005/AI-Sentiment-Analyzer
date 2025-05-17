@@ -11,10 +11,6 @@ An intelligent mini-project that analyzes customer reviews to extract useful ins
 - 📦 **Item Recognition** – Identifies the product being reviewed
 - 🏷️ **Brand Extraction** – Identifies the company or brand associated with the product
 
-## 🎥 Demo
-
-[Insert link to demo video here]
-
 ## 🛠️ Tech Stack
 
 - **Gemini API** – For prompt-based review analysis
@@ -25,5 +21,5 @@ An intelligent mini-project that analyzes customer reviews to extract useful ins
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ai-sentiment-analyzer.git
+   git clone https://github.com/yourusername/ai-sentiment-analyzer.git](https://github.com/bal2005/AI-Sentiment-Analyzer.git
    cd ai-sentiment-analyzer
